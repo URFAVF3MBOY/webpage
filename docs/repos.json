@@ -447,5 +447,13 @@
         "kernel_name": "android_kernel_samsung_a03",
         "kernel_link": "https://github.com/IverCoder/android_kernel_samsung_a03/tree/main",
         "devices": "Samsung Galaxy A03 Core"
+    },
+    {
+        "maintainer": "URFAVF3MBOY",
+        "img": "https://avatars.githubusercontent.com/URFAVF3MBOY?v=4",
+        "maintainer_link": "https://github.com/URFAVF3MBOY",
+        "kernel_name": "monterey-kernelsu-next",
+        "kernel_link": "https://github.com/URFAVF3MBOY/monterey-kernelsu-next",
+        "devices": "Oculus Quest 1"
     }
 ]
